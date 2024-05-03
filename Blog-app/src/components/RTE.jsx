@@ -15,7 +15,7 @@ function RTE({ name, control, label, defaultValue = "" }) {
                         initialValue={defaultValue}
                         apiKey='ucrtn2la69sest8ui6cwbf4l02rvziaj6at1jzzsxj0k9ecy'
                         init={{
-                            intitialValue: defaultValue,
+                            initialValue: defaultValue,
                             height: 500,
                             menubar: true,
                             plugins: [
