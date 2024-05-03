@@ -50,7 +50,7 @@ function Header() {
   return (
     <header>
       <Container>
-        <nav className="flex bg-gray-400 p-2 rounded-lg md:justify-start justify-between relative">
+        <nav className="flex border border-gray-600 p-2 rounded-lg md:justify-start justify-between relative">
           <div>
             <Link to="/">
               <Logo />
